@@ -1,0 +1,17 @@
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\AssetSystem.Application\bin\Debug\net8.0\AssetSystem.Application.deps.json
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\AssetSystem.Application\bin\Debug\net8.0\AssetSystem.Application.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\AssetSystem.Application\bin\Debug\net8.0\AssetSystem.Application.pdb
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\AssetSystem.Application\bin\Debug\net8.0\AssetSystem.Domain.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\AssetSystem.Application\bin\Debug\net8.0\AssetSystem.Infrastructure.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\AssetSystem.Application\bin\Debug\net8.0\AssetSystem.Domain.pdb
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\AssetSystem.Application\bin\Debug\net8.0\AssetSystem.Infrastructure.pdb
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\AssetSystem.Application\obj\Debug\net8.0\AssetSystem.Application.csproj.AssemblyReference.cache
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\AssetSystem.Application\obj\Debug\net8.0\AssetSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\AssetSystem.Application\obj\Debug\net8.0\AssetSystem.Application.AssemblyInfoInputs.cache
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\AssetSystem.Application\obj\Debug\net8.0\AssetSystem.Application.AssemblyInfo.cs
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\AssetSystem.Application\obj\Debug\net8.0\AssetSystem.Application.csproj.CoreCompileInputs.cache
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\AssetSystem.Application\obj\Debug\net8.0\AssetSys.0F9B5627.Up2Date
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\AssetSystem.Application\obj\Debug\net8.0\AssetSystem.Application.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\AssetSystem.Application\obj\Debug\net8.0\refint\AssetSystem.Application.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\AssetSystem.Application\obj\Debug\net8.0\AssetSystem.Application.pdb
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\AssetSystem.Application\obj\Debug\net8.0\ref\AssetSystem.Application.dll

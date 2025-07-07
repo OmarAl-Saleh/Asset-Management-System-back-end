@@ -1,0 +1,17 @@
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\AssetSystem.Infrastructure\bin\Debug\net8.0\AssetSystem.Infrastructure.deps.json
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\AssetSystem.Infrastructure\bin\Debug\net8.0\AssetSystem.Infrastructure.runtimeconfig.json
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\AssetSystem.Infrastructure\bin\Debug\net8.0\AssetSystem.Infrastructure.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\AssetSystem.Infrastructure\bin\Debug\net8.0\AssetSystem.Infrastructure.pdb
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\AssetSystem.Infrastructure\bin\Debug\net8.0\AssetSystem.Domain.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\AssetSystem.Infrastructure\bin\Debug\net8.0\AssetSystem.Domain.pdb
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\AssetSystem.Infrastructure\obj\Debug\net8.0\AssetSystem.Infrastructure.csproj.AssemblyReference.cache
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\AssetSystem.Infrastructure\obj\Debug\net8.0\AssetSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\AssetSystem.Infrastructure\obj\Debug\net8.0\AssetSystem.Infrastructure.AssemblyInfoInputs.cache
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\AssetSystem.Infrastructure\obj\Debug\net8.0\AssetSystem.Infrastructure.AssemblyInfo.cs
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\AssetSystem.Infrastructure\obj\Debug\net8.0\AssetSystem.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\AssetSystem.Infrastructure\obj\Debug\net8.0\AssetSys.F47AC040.Up2Date
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\AssetSystem.Infrastructure\obj\Debug\net8.0\AssetSystem.Infrastructure.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\AssetSystem.Infrastructure\obj\Debug\net8.0\refint\AssetSystem.Infrastructure.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\AssetSystem.Infrastructure\obj\Debug\net8.0\AssetSystem.Infrastructure.pdb
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\AssetSystem.Infrastructure\obj\Debug\net8.0\AssetSystem.Infrastructure.genruntimeconfig.cache
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\AssetSystem.Infrastructure\obj\Debug\net8.0\ref\AssetSystem.Infrastructure.dll

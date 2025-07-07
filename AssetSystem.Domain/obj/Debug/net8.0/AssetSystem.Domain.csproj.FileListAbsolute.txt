@@ -1,0 +1,11 @@
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\AssetSystem.Domain\bin\Debug\net8.0\AssetSystem.Domain.deps.json
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\AssetSystem.Domain\bin\Debug\net8.0\AssetSystem.Domain.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\AssetSystem.Domain\bin\Debug\net8.0\AssetSystem.Domain.pdb
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\AssetSystem.Domain\obj\Debug\net8.0\AssetSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\AssetSystem.Domain\obj\Debug\net8.0\AssetSystem.Domain.AssemblyInfoInputs.cache
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\AssetSystem.Domain\obj\Debug\net8.0\AssetSystem.Domain.AssemblyInfo.cs
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\AssetSystem.Domain\obj\Debug\net8.0\AssetSystem.Domain.csproj.CoreCompileInputs.cache
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\AssetSystem.Domain\obj\Debug\net8.0\AssetSystem.Domain.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\AssetSystem.Domain\obj\Debug\net8.0\refint\AssetSystem.Domain.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\AssetSystem.Domain\obj\Debug\net8.0\AssetSystem.Domain.pdb
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\AssetSystem.Domain\obj\Debug\net8.0\ref\AssetSystem.Domain.dll

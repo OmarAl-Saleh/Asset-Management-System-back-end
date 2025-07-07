@@ -1,0 +1,213 @@
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\appsettings.Development.json
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\appsettings.json
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Asset Managment System - backend.exe
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Asset Managment System - backend.deps.json
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Asset Managment System - backend.runtimeconfig.json
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Asset Managment System - backend.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Asset Managment System - backend.pdb
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Azure.Core.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Azure.Identity.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Humanizer.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\System.ClientModel.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\System.CodeDom.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\System.Formats.Asn1.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\System.Text.Json.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\AssetSystem.Application.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\AssetSystem.Domain.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\AssetSystem.Infrastructure.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\AssetSystem.Application.pdb
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\AssetSystem.Infrastructure.pdb
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\AssetSystem.Domain.pdb
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\obj\Debug\net8.0\Asset Managment System - backend.csproj.AssemblyReference.cache
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\obj\Debug\net8.0\Asset Managment System - backend.GeneratedMSBuildEditorConfig.editorconfig
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\obj\Debug\net8.0\Asset Managment System - backend.AssemblyInfoInputs.cache
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\obj\Debug\net8.0\Asset Managment System - backend.AssemblyInfo.cs
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\obj\Debug\net8.0\Asset Managment System - backend.csproj.CoreCompileInputs.cache
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\obj\Debug\net8.0\Asset Managment System - backend.MvcApplicationPartsAssemblyInfo.cache
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\obj\Debug\net8.0\staticwebassets.build.json
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\obj\Debug\net8.0\staticwebassets.development.json
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\obj\Debug\net8.0\staticwebassets\msbuild.Asset Managment System - backend.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\obj\Debug\net8.0\staticwebassets\msbuild.build.Asset Managment System - backend.props
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Asset Managment System - backend.props
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Asset Managment System - backend.props
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\obj\Debug\net8.0\scopedcss\bundle\Asset Managment System - backend.styles.css
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\obj\Debug\net8.0\Asset Ma.269DDA41.Up2Date
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\obj\Debug\net8.0\Asset Managment System - backend.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\obj\Debug\net8.0\refint\Asset Managment System - backend.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\obj\Debug\net8.0\Asset Managment System - backend.pdb
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\obj\Debug\net8.0\Asset Managment System - backend.genruntimeconfig.cache
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\obj\Debug\net8.0\ref\Asset Managment System - backend.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\AutoMapper.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\nlog.config
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\BCrypt.Net-Next.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Microsoft.Extensions.Localization.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Microsoft.Extensions.Localization.Abstractions.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\NLog.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\NLog.Extensions.Logging.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\NLog.Web.AspNetCore.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\AssetSystem.Common.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\AssetSystem.Common.pdb
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\obj\Debug\net8.0\Asset Managment System - backend.MvcApplicationPartsAssemblyInfo.cs
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\NLog.WindowsEventLog.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\NLog.Database.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\System.Data.SqlClient.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\Asset Managment System - backend\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll

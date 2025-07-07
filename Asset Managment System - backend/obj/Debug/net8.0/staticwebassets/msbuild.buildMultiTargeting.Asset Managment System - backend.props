@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Asset Managment System - backend.props" />
+</Project>

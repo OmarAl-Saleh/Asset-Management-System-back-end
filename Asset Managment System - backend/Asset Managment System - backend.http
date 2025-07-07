@@ -1,0 +1,6 @@
+@Asset_Managment_System___backend_HostAddress = http://localhost:5009
+
+GET {{Asset_Managment_System___backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

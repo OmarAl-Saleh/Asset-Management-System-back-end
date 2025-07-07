@@ -1,0 +1,12 @@
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\AssetSystem.Common\obj\Debug\net8.0\AssetSystem.Common.csproj.AssemblyReference.cache
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\AssetSystem.Common\obj\Debug\net8.0\AssetSystem.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\AssetSystem.Common\obj\Debug\net8.0\AssetSystem.Common.AssemblyInfoInputs.cache
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\AssetSystem.Common\obj\Debug\net8.0\AssetSystem.Common.AssemblyInfo.cs
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\AssetSystem.Common\obj\Debug\net8.0\AssetSystem.Common.csproj.CoreCompileInputs.cache
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\AssetSystem.Common\bin\Debug\net8.0\AssetSystem.Common.deps.json
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\AssetSystem.Common\bin\Debug\net8.0\AssetSystem.Common.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\AssetSystem.Common\bin\Debug\net8.0\AssetSystem.Common.pdb
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\AssetSystem.Common\obj\Debug\net8.0\AssetSystem.Common.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\AssetSystem.Common\obj\Debug\net8.0\refint\AssetSystem.Common.dll
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\AssetSystem.Common\obj\Debug\net8.0\AssetSystem.Common.pdb
+E:\Omar\Anazeem\on Bording Plan\Projects\Asset Managment System - backend\AssetSystem.Common\obj\Debug\net8.0\ref\AssetSystem.Common.dll
