@@ -24,7 +24,7 @@ namespace AssetSystem.Application.Services
             var existingUser = await _repo.GetByUsernameAsync(user.Username);
             if (existingUser != null)
             {
-                throw new InvalidOperationException("User with this username already exists.");
+                throw new InvalidOperationException("User with this username already exists."); 
             }
             
             user.PasswordHash = BCrypt.Net.BCrypt.HashPassword(user.PasswordHash);
