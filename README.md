@@ -18,15 +18,17 @@ A full-featured frontend application built with **Angular**, **PrimeNG**, and **
 
 ## 📁 Project Structure
 
+
+```text
 src/
 ├── app/
-│ ├── auth/ # Auth guards, login
-│ ├── components/ # Shared layout: header, footer
-│ ├── pages/ # Dashboard, Assets, Users, etc.
-│ ├── services/ # API and Auth services
-│ └── models/ # TypeScript interfaces
-├── assets/ # Static files, styles
-└── environments/ # Environment configs
+│   ├── auth/          # Auth guards, login
+│   ├── components/    # Shared layout: header, footer
+│   ├── pages/         # Dashboard, Assets, Users, etc.
+│   ├── services/      # API and Auth services
+│   └── models/        # TypeScript interfaces
+├── assets/            # Static files, styles
+└── environments/      # Environment configs
 
 ## 🔐 Authentication
 On successful login, JWT access and refresh tokens are saved in localStorage.
